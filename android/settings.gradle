@@ -1,0 +1,3 @@
+rootProject.name = 'chatEnginePushNotif'
+
+include ':app'
