@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "324601078795",
+    "firebase_url": "https://avpn-3d6c9.firebaseio.com",
+    "project_id": "avpn-3d6c9",
+    "storage_bucket": "avpn-3d6c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324601078795:android:8f3c87fb2dd23838",
+        "android_client_info": {
+          "package_name": "com.avpnconferenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324601078795-nkvp4j3lq0colarpfumdaaoed7ltd9ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgv7Kj9za1hYq3k9d9jr42HRgPtcQipg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
