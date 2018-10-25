@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "324601078795",
-    "firebase_url": "https://avpn-3d6c9.firebaseio.com",
-    "project_id": "avpn-3d6c9",
-    "storage_bucket": "avpn-3d6c9.appspot.com"
+    "project_number": "48419688117",
+    "firebase_url": "https://chatenginepushnotif.firebaseio.com",
+    "project_id": "chatenginepushnotif",
+    "storage_bucket": "chatenginepushnotif.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:324601078795:android:8f3c87fb2dd23838",
+        "mobilesdk_app_id": "1:48419688117:android:07f0d064bdbc97b7",
         "android_client_info": {
-          "package_name": "com.avpnconferenceapp"
+          "package_name": "com.chatenginepushnotif"
         }
       },
       "oauth_client": [
         {
-          "client_id": "324601078795-nkvp4j3lq0colarpfumdaaoed7ltd9ni.apps.googleusercontent.com",
+          "client_id": "48419688117-claa1mn551tjr6q0ee8vtqjtvric3fcm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDrgv7Kj9za1hYq3k9d9jr42HRgPtcQipg"
+          "current_key": "AIzaSyCzmqDk0hhCQ7Hs2_w3wmJdqwHyiu5wuOQ"
         }
       ],
       "services": {
