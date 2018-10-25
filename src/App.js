@@ -22,6 +22,8 @@ ChatEngine.proto(
   }),
 );
 
+// console log ChatEngine on user-auth.js
+
 export default class ChatApplication extends React.Component {
   constructor(props) {
     super(props);
