@@ -9,7 +9,7 @@
   "dependencies": {
     "chat-engine": "^0.9.19",
     "chat-engine-gravatar": "^0.0.10",
-    "chat-engine-notifications": "^1.1.1",
+    "chat-engine-notifications": "^1.1.2",
     "chat-engine-react-native": "^0.0.9",
     "chat-engine-typing-indicator": "^0.0.9",
     "react": "16.6.0",
